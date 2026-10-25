@@ -1,0 +1,6 @@
+{
+  "name": "Galaxy S26 Ultra — Cinematic Reveal",
+  "description": "Ultra-smooth scroll-driven video parallax experience showcasing the Samsung Galaxy S26 Ultra.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
